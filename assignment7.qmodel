@@ -50,7 +50,7 @@
                          <object>{071380f0-a98d-4e83-9e50-7ce83d083903}</object>
                          <name>Pixel</name>
                          <pos>x:775;y:65</pos>
-                         <rect>x:-55;y:-70;w:110;h:140</rect>
+                         <rect>x:-55;y:-65;w:110;h:130</rect>
                          <visual-role>0</visual-role>
                         </DObject>
                        </base-DObject>
@@ -71,7 +71,7 @@
                          <object>{dc71cc0f-4f40-4f6a-9ddb-bd1470486f95}</object>
                          <name>Canvas</name>
                          <pos>x:345;y:10</pos>
-                         <rect>x:-90;y:-200;w:180;h:400</rect>
+                         <rect>x:-95;y:-135;w:190;h:270</rect>
                          <visual-role>0</visual-role>
                         </DObject>
                        </base-DObject>
@@ -92,7 +92,7 @@
                          <object>{a635ca1c-f884-4825-9477-ec805a878521}</object>
                          <name>DrawingApp</name>
                          <pos>x:80;y:5</pos>
-                         <rect>x:-95;y:-185;w:190;h:370</rect>
+                         <rect>x:-100;y:-105;w:200;h:210</rect>
                          <visual-role>0</visual-role>
                         </DObject>
                        </base-DObject>
@@ -141,8 +141,8 @@
                          </base-DElement>
                          <object>{3eb28c7d-c808-4771-a444-b7213d47b39c}</object>
                          <name>Layer</name>
-                         <pos>x:780;y:-110</pos>
-                         <rect>x:-70;y:-70;w:140;h:140</rect>
+                         <pos>x:785;y:-120</pos>
+                         <rect>x:-70;y:-65;w:140;h:130</rect>
                          <visual-role>0</visual-role>
                         </DObject>
                        </base-DObject>
@@ -188,7 +188,7 @@
                          <object>{96328a3d-fadd-492e-96fe-5d4f7cf189de}</object>
                          <name>Frame</name>
                          <pos>x:595;y:-80</pos>
-                         <rect>x:-70;y:-100;w:140;h:200</rect>
+                         <rect>x:-75;y:-70;w:150;h:140</rect>
                          <visual-role>0</visual-role>
                         </DObject>
                        </base-DObject>
@@ -279,7 +279,7 @@
                          <object>{f25d168d-77f1-403a-b44b-0b6daffacd57}</object>
                          <name>LayersMenu</name>
                          <pos>x:210;y:635</pos>
-                         <rect>x:-40;y:-30;w:80;h:60</rect>
+                         <rect>x:-45;y:-30;w:90;h:60</rect>
                          <visual-role>0</visual-role>
                         </DObject>
                        </base-DObject>
@@ -504,7 +504,7 @@
                          <object>{daeea86f-2c2a-4f61-9b32-a20197380a93}</object>
                          <name>CanvasDisplay</name>
                          <pos>x:265;y:470</pos>
-                         <rect>x:-45;y:-30;w:90;h:60</rect>
+                         <rect>x:-50;y:-30;w:100;h:60</rect>
                          <visual-role>0</visual-role>
                         </DObject>
                        </base-DObject>
@@ -632,7 +632,7 @@
                          <object>{548e05b7-c900-444a-a0eb-c078cd1f688b}</object>
                          <name>CanvasCreationWindow</name>
                          <pos>x:-375;y:320</pos>
-                         <rect>x:-70;y:-30;w:140;h:60</rect>
+                         <rect>x:-75;y:-30;w:150;h:60</rect>
                          <visual-role>0</visual-role>
                         </DObject>
                        </base-DObject>
@@ -652,7 +652,7 @@
                          <object>{d0819be5-4d7d-46c5-ac05-c8f12892c68a}</object>
                          <name>SizeSelector</name>
                          <pos>x:-200;y:260</pos>
-                         <rect>x:-40;y:-30;w:80;h:60</rect>
+                         <rect>x:-45;y:-30;w:90;h:60</rect>
                          <visual-role>0</visual-role>
                         </DObject>
                        </base-DObject>
@@ -697,7 +697,7 @@
                          <object>{dcce8a83-b413-4402-8fd5-6cb6e5449082}</object>
                          <name>QComboBox</name>
                          <pos>x:-200;y:175</pos>
-                         <rect>x:-40;y:-30;w:80;h:60</rect>
+                         <rect>x:-45;y:-30;w:90;h:60</rect>
                          <visual-role>0</visual-role>
                         </DObject>
                        </base-DObject>
@@ -820,7 +820,7 @@
                          <name>QWidget</name>
                          <pos>x:430;y:365</pos>
                          <rect>x:-40;y:-30;w:80;h:60</rect>
-                         <visual-role>0</visual-role>
+                         <visual-role>6</visual-role>
                         </DObject>
                        </base-DObject>
                       </DClass>
@@ -994,7 +994,7 @@
                     </item>
                    </qlist>
                   </elements>
-                  <last-modified>1742597037363</last-modified>
+                  <last-modified>1742679400994</last-modified>
                   <toolbarid>General</toolbarid>
                  </MDiagram>
                 </base-MDiagram>
@@ -1023,35 +1023,35 @@
                  <qlist>
                   <item>
                    <MClassMember>
-                    <uid>{4083a316-39fd-4e98-bf88-732b796a06a1}</uid>
+                    <uid>{dc2e9839-6487-4a07-8ddd-3a5a49fd2310}</uid>
                     <type>1</type>
                     <declaration>r : unsigned char</declaration>
                    </MClassMember>
                   </item>
                   <item>
                    <MClassMember>
-                    <uid>{58b97aae-1cfa-4f02-848e-71d10570758e}</uid>
+                    <uid>{ffdd632b-3b14-4ae0-97ca-562feb5c4e1a}</uid>
                     <type>1</type>
                     <declaration>g : unsigned char</declaration>
                    </MClassMember>
                   </item>
                   <item>
                    <MClassMember>
-                    <uid>{cb8b9547-63d6-4464-8f3b-40d85c8a4845}</uid>
+                    <uid>{d5e2e4dd-881a-48fc-8c56-dc2a6c8e07c6}</uid>
                     <type>1</type>
                     <declaration>b : unsigned char</declaration>
                    </MClassMember>
                   </item>
                   <item>
                    <MClassMember>
-                    <uid>{28fb90e9-021d-4a33-8e9c-d4674312d88a}</uid>
+                    <uid>{1824502d-16bb-4c8d-b273-42c642345beb}</uid>
                     <type>1</type>
                     <declaration>a : unsigned char</declaration>
                    </MClassMember>
                   </item>
                   <item>
                    <MClassMember>
-                    <uid>{f779e0cd-d6ef-4620-8039-ec9613136bf9}</uid>
+                    <uid>{b448114c-875d-46c2-9cfe-8e842f47186e}</uid>
                     <type>2</type>
                     <declaration>+setPixelColor()</declaration>
                    </MClassMember>
@@ -1265,154 +1265,112 @@
                  <qlist>
                   <item>
                    <MClassMember>
-                    <uid>{2869e7b2-a58c-48ed-b3fb-f573b02c8310}</uid>
+                    <uid>{d492910d-fda3-4945-ac12-ce7d888b69fa}</uid>
                     <type>1</type>
                     <declaration>currentFrame : Frame*</declaration>
                    </MClassMember>
                   </item>
                   <item>
                    <MClassMember>
-                    <uid>{4536d89a-31df-4940-9839-2a5824a788ad}</uid>
+                    <uid>{de2e8f83-2b45-49fd-ad06-dea16224d357}</uid>
                     <type>1</type>
                     <declaration>frames : Vector&lt;Frame*&gt;</declaration>
                    </MClassMember>
                   </item>
                   <item>
                    <MClassMember>
-                    <uid>{01c6a4c8-8168-49fb-8345-2f06b466e8d7}</uid>
+                    <uid>{9037885c-c235-47bb-946f-2b115972689b}</uid>
                     <type>1</type>
                     <declaration>currentColor : unsigned char[4]</declaration>
                    </MClassMember>
                   </item>
                   <item>
                    <MClassMember>
-                    <uid>{ec384088-e191-4450-beba-03aa5b65ad5b}</uid>
+                    <uid>{d1582263-7c0d-4ea1-b093-17188094ae2c}</uid>
                     <type>1</type>
                     <declaration>selectedTool : string</declaration>
                    </MClassMember>
                   </item>
                   <item>
                    <MClassMember>
-                    <uid>{1f72dce9-cfba-44a8-87ae-aa57f1cb293a}</uid>
+                    <uid>{401491d4-8d3e-48a3-b6b8-8ff1a4aa59b5}</uid>
                     <type>1</type>
                     <declaration>selectedPixel : int[2]</declaration>
                    </MClassMember>
                   </item>
                   <item>
                    <MClassMember>
-                    <uid>{5450f901-20ab-4fe1-af1e-9de3667b95d4}</uid>
+                    <uid>{e0c6c200-5c57-4fa0-8c52-7c12aa6ab9c7}</uid>
                     <type>1</type>
                     <declaration>framesPerSecond : int</declaration>
                    </MClassMember>
                   </item>
                   <item>
                    <MClassMember>
-                    <uid>{2b9a8b77-2b12-4fe8-b69c-9307c8130cd1}</uid>
+                    <uid>{da99bb12-cc3d-4add-acb5-e668ce7fa99f}</uid>
                     <type>1</type>
                     <declaration>frameTime : double</declaration>
                    </MClassMember>
                   </item>
                   <item>
                    <MClassMember>
-                    <uid>{861af69a-ec99-4b7f-a5cc-7e16ba03e334}</uid>
+                    <uid>{a05572a5-6c60-40e5-8e89-fbcb99c07fcc}</uid>
                     <type>1</type>
                     <declaration>size : int</declaration>
                    </MClassMember>
                   </item>
                   <item>
                    <MClassMember>
-                    <uid>{6b399589-356d-4a6a-86f3-d6f354028b9f}</uid>
+                    <uid>{b4300c27-d895-4d15-9f9d-38bd3e200e9f}</uid>
                     <type>1</type>
                     <declaration>animationPlaying : bool</declaration>
                    </MClassMember>
                   </item>
                   <item>
                    <MClassMember>
-                    <uid>{6c2cd0f4-8739-43fc-bdf5-3de40cd957a3}</uid>
+                    <uid>{298180b4-157b-47a7-90ef-fca7c4e0fe01}</uid>
                     <type>1</type>
                     <declaration>onionSkinningEnabled : bool</declaration>
                    </MClassMember>
                   </item>
                   <item>
                    <MClassMember>
-                    <uid>{bd439655-1917-4a8d-ad19-6dd8d553db0d}</uid>
-                    <type>1</type>
-                    <declaration>canvasModified : bool</declaration>
-                   </MClassMember>
-                  </item>
-                  <item>
-                   <MClassMember>
-                    <uid>{2138da59-a81f-4961-990e-253b4cd19846}</uid>
+                    <uid>{9a6e6790-039b-4b4e-9405-8ecad2ad6bd8}</uid>
                     <type>1</type>
                     <declaration>animationActualSize : bool</declaration>
                    </MClassMember>
                   </item>
                   <item>
                    <MClassMember>
-                    <uid>{996d484a-3b07-4c1c-91c4-e702c69e1233}</uid>
+                    <uid>{d193a07f-9bf7-40e9-9289-63081e47432a}</uid>
                     <type>2</type>
                     <declaration>+setFrameIndex()</declaration>
                    </MClassMember>
                   </item>
                   <item>
                    <MClassMember>
-                    <uid>{784b24c4-f520-442f-8d29-088b56de172a}</uid>
+                    <uid>{5b81c2e3-0028-4e1a-a0dc-b5e9227b5f2a}</uid>
                     <type>2</type>
                     <declaration>+setTool()</declaration>
                    </MClassMember>
                   </item>
                   <item>
                    <MClassMember>
-                    <uid>{83b96bb6-af6b-46f7-9a90-51345b9fde6a}</uid>
+                    <uid>{d529aad9-815d-4b99-9f2b-f8f64d5a8556}</uid>
                     <type>2</type>
                     <declaration>+addFrame()</declaration>
                    </MClassMember>
                   </item>
                   <item>
                    <MClassMember>
-                    <uid>{40ce2945-a9f6-4d08-a96c-5d8ede1f44db}</uid>
+                    <uid>{62d4e815-ae5a-4e3a-8632-6f56330e0b1d}</uid>
                     <type>2</type>
                     <declaration>+removeFrame()</declaration>
                    </MClassMember>
                   </item>
                   <item>
                    <MClassMember>
-                    <uid>{338c142c-0f6e-4237-ac65-929bc2d27f30}</uid>
-                    <type>2</type>
-                    <declaration>+addLayer()</declaration>
-                   </MClassMember>
-                  </item>
-                  <item>
-                   <MClassMember>
-                    <uid>{501f43a9-0ae7-451a-8891-7b28c798e7ac}</uid>
-                    <type>2</type>
-                    <declaration>+removeLayer()</declaration>
-                   </MClassMember>
-                  </item>
-                  <item>
-                   <MClassMember>
-                    <uid>{fba40fb5-6bb9-469e-b270-ba74a37bb51f}</uid>
-                    <type>2</type>
-                    <declaration>+setPixelColor()</declaration>
-                   </MClassMember>
-                  </item>
-                  <item>
-                   <MClassMember>
-                    <uid>{b9486545-bd86-4907-bb10-80bdb857a083}</uid>
-                    <type>2</type>
-                    <declaration>+moveLayerUp()</declaration>
-                   </MClassMember>
-                  </item>
-                  <item>
-                   <MClassMember>
-                    <uid>{714e1e85-5228-407e-aa70-27bb48b1415e}</uid>
-                    <type>2</type>
-                    <declaration>+moveLayerDown()</declaration>
-                   </MClassMember>
-                  </item>
-                  <item>
-                   <MClassMember>
-                    <uid>{20f65102-942d-4478-8925-e9e73ffad6a3}</uid>
+                    <uid>{88bf6046-60ae-44e2-8e11-f1f5210a3921}</uid>
                     <type>2</type>
                     <declaration>+toggleOnionSkinning()</declaration>
                    </MClassMember>
@@ -1512,142 +1470,79 @@
                  <qlist>
                   <item>
                    <MClassMember>
-                    <uid>{87b98305-3d29-4906-8b9a-68db12506c74}</uid>
+                    <uid>{9520879d-96e6-4630-bbf1-1f7a2e44ebbb}</uid>
                     <type>1</type>
                     <declaration>const sizes : int[4]</declaration>
                    </MClassMember>
                   </item>
                   <item>
                    <MClassMember>
-                    <uid>{d1f5632c-8e2a-41d9-a712-6ddeec69f016}</uid>
+                    <uid>{99d51960-34fb-45d6-9aa4-1bffdcccd86f}</uid>
                     <type>1</type>
                     <declaration>drawingCanvas : Canvas</declaration>
                    </MClassMember>
                   </item>
                   <item>
                    <MClassMember>
-                    <uid>{2fdff89b-eefc-4fa0-855e-be0711dcd0da}</uid>
+                    <uid>{4a1165ec-9a29-479b-9191-7e494acb1adf}</uid>
                     <type>1</type>
                     <declaration>mouseInCanvas : bool</declaration>
                    </MClassMember>
                   </item>
                   <item>
                    <MClassMember>
-                    <uid>{309e5b39-df8c-4108-b743-8cd827298c34}</uid>
+                    <uid>{88053a86-9fcd-4248-ad0a-62a72908d742}</uid>
                     <type>1</type>
                     <declaration>mouseDown : bool</declaration>
                    </MClassMember>
                   </item>
                   <item>
                    <MClassMember>
-                    <uid>{7b48d2a9-0280-43b2-818a-bee5fd3d6c0e}</uid>
+                    <uid>{a8784e7e-cc09-4a0b-b56a-0fb3b8f2ab31}</uid>
                     <type>1</type>
                     <declaration>keyboardShortcutsEnabled : bool</declaration>
                    </MClassMember>
                   </item>
                   <item>
                    <MClassMember>
-                    <uid>{7e37fb20-73dc-443c-826b-3755832ee58d}</uid>
+                    <uid>{ade20a7f-288f-4449-bb80-a5bafa3446e0}</uid>
                     <type>1</type>
                     <declaration>canvasModified : bool</declaration>
                    </MClassMember>
                   </item>
                   <item>
                    <MClassMember>
-                    <uid>{9e75b837-904e-415c-b169-5f34937c8f45}</uid>
+                    <uid>{6f5f9aae-f02b-48c1-9a94-12e4aee05d38}</uid>
                     <type>2</type>
                     <declaration>+newDrawing()</declaration>
                    </MClassMember>
                   </item>
                   <item>
                    <MClassMember>
-                    <uid>{94e8e9d5-e781-44e2-9a7c-ddf78729fe91}</uid>
+                    <uid>{b1a9369b-3df2-49f0-a5d8-27d8e6f1c395}</uid>
                     <type>2</type>
                     <declaration>+playAnimation()</declaration>
                    </MClassMember>
                   </item>
                   <item>
                    <MClassMember>
-                    <uid>{2ab541e4-f3a1-4f9c-aa15-70b84b316ec1}</uid>
+                    <uid>{a3c8214b-5360-45d6-8e08-ad9c02e0a7be}</uid>
                     <type>2</type>
                     <declaration>+stopAnimation()</declaration>
                    </MClassMember>
                   </item>
                   <item>
                    <MClassMember>
-                    <uid>{31cdfe39-e1d5-49b8-9a1d-c44b95885fb3}</uid>
+                    <uid>{d14357ff-3e59-4def-8fc4-15fcfd25ba84}</uid>
                     <type>2</type>
                     <declaration>+saveFile()</declaration>
                    </MClassMember>
                   </item>
                   <item>
                    <MClassMember>
-                    <uid>{d71f337f-df74-4231-9fab-e30a2bfe95c6}</uid>
+                    <uid>{4bf3d98f-fba2-4f08-82a5-63043f2b2f07}</uid>
                     <type>2</type>
                     <declaration>+loadFile()</declaration>
-                   </MClassMember>
-                  </item>
-                  <item>
-                   <MClassMember>
-                    <uid>{58d504ec-f83f-4873-b3d2-bfb0b433b80f}</uid>
-                    <type>2</type>
-                    <declaration>+setTool()</declaration>
-                   </MClassMember>
-                  </item>
-                  <item>
-                   <MClassMember>
-                    <uid>{30ad4247-05d3-4c3b-8c08-b7c8349a5278}</uid>
-                    <type>2</type>
-                    <declaration>+addFrame()</declaration>
-                   </MClassMember>
-                  </item>
-                  <item>
-                   <MClassMember>
-                    <uid>{90a1012e-8fc5-445b-a1d6-3cc57273e4d4}</uid>
-                    <type>2</type>
-                    <declaration>+removeFrame()</declaration>
-                   </MClassMember>
-                  </item>
-                  <item>
-                   <MClassMember>
-                    <uid>{2686126d-bcba-46af-b09f-55bde150b7fa}</uid>
-                    <type>2</type>
-                    <declaration>+addLayer()</declaration>
-                   </MClassMember>
-                  </item>
-                  <item>
-                   <MClassMember>
-                    <uid>{75e9efa9-bbc6-44aa-b833-a79dbb40170c}</uid>
-                    <type>2</type>
-                    <declaration>+removeLayer()</declaration>
-                   </MClassMember>
-                  </item>
-                  <item>
-                   <MClassMember>
-                    <uid>{022edcc1-de7e-436c-8d18-563bac802439}</uid>
-                    <type>2</type>
-                    <declaration>+setPixelColor()</declaration>
-                   </MClassMember>
-                  </item>
-                  <item>
-                   <MClassMember>
-                    <uid>{4fb48326-15ce-453f-99ca-1f9a17e82d2b}</uid>
-                    <type>2</type>
-                    <declaration>+moveLayerUp()</declaration>
-                   </MClassMember>
-                  </item>
-                  <item>
-                   <MClassMember>
-                    <uid>{596b100e-0f8c-4065-bf0a-a4b4377b6905}</uid>
-                    <type>2</type>
-                    <declaration>+moveLayerDown()</declaration>
-                   </MClassMember>
-                  </item>
-                  <item>
-                   <MClassMember>
-                    <uid>{6bde9f7c-ac22-4df4-a362-9cef28b1b7b6}</uid>
-                    <type>2</type>
-                    <declaration>+toggleOnionSkinning()</declaration>
                    </MClassMember>
                   </item>
                  </qlist>
@@ -1714,37 +1609,37 @@
                  <qlist>
                   <item>
                    <MClassMember>
-                    <uid>{e98b8f82-485a-4b6c-b6ee-5088998b8d9d}</uid>
+                    <uid>{1cbe8f3b-82e5-4a20-b10d-53ba20468abc}</uid>
                     <type>1</type>
                     <declaration>pixels : Vector&lt;Pixel*&gt;</declaration>
                    </MClassMember>
                   </item>
                   <item>
                    <MClassMember>
-                    <uid>{dc4c185a-5411-47af-9f4e-2f49293c65e8}</uid>
+                    <uid>{57828a9f-8688-4436-81f0-bc40bf71a51e}</uid>
                     <type>1</type>
                     <declaration>opacity : int</declaration>
                    </MClassMember>
                   </item>
                   <item>
                    <MClassMember>
-                    <uid>{da07bbdf-736c-4e7a-a056-14b55bb02c60}</uid>
+                    <uid>{1a34bc6d-5ed5-47da-9fc5-682a0b52c045}</uid>
                     <type>1</type>
                     <declaration>hidden : bool</declaration>
                    </MClassMember>
                   </item>
                   <item>
                    <MClassMember>
-                    <uid>{22d39f1c-86d5-40e0-b254-8f3c3abfa3fc}</uid>
+                    <uid>{b78cb49d-e90d-4167-8f49-b00a2759ffe2}</uid>
                     <type>2</type>
-                    <declaration>+toggleLayerVisibility()</declaration>
+                    <declaration>+setLayerOpacity()</declaration>
                    </MClassMember>
                   </item>
                   <item>
                    <MClassMember>
-                    <uid>{3bf0bf04-4f61-459c-aa60-f21bb58073a3}</uid>
+                    <uid>{c4e2e1e5-afb9-42ff-a857-8bb132a151e4}</uid>
                     <type>2</type>
-                    <declaration>+setPixelColor()</declaration>
+                    <declaration>+toggleLayerVisibility()</declaration>
                    </MClassMember>
                   </item>
                  </qlist>
@@ -1811,63 +1706,42 @@
                  <qlist>
                   <item>
                    <MClassMember>
-                    <uid>{291215d1-cd04-4272-945a-619ccfff4eaf}</uid>
+                    <uid>{fdb330a5-b136-4590-9bd9-27780bcffcb2}</uid>
                     <type>1</type>
                     <declaration>currentLayer : Layer*</declaration>
                    </MClassMember>
                   </item>
                   <item>
                    <MClassMember>
-                    <uid>{e540be27-cdf5-4c51-b271-0daeefac5f32}</uid>
+                    <uid>{e7ab2041-9505-4eb8-afb8-5c1ac79781aa}</uid>
                     <type>1</type>
                     <declaration>layers : Vector&lt;Layer*&gt;</declaration>
                    </MClassMember>
                   </item>
                   <item>
                    <MClassMember>
-                    <uid>{da88baa2-61d4-41e5-9359-91fe7b9f3410}</uid>
+                    <uid>{19b4efd7-a04c-40c6-9ae7-0f1a18c8f98f}</uid>
                     <type>2</type>
                     <declaration>+addLayer()</declaration>
                    </MClassMember>
                   </item>
                   <item>
                    <MClassMember>
-                    <uid>{229d4064-e064-4fc2-a9fe-ea7168d43ace}</uid>
+                    <uid>{07ca6ca5-d99a-4c82-b199-762c9f84e5af}</uid>
                     <type>2</type>
                     <declaration>+removeLayer()</declaration>
                    </MClassMember>
                   </item>
                   <item>
                    <MClassMember>
-                    <uid>{d3a77b7f-a1e3-4c15-b090-83366fc3f19b}</uid>
-                    <type>2</type>
-                    <declaration>+toggleLayerVisibility()</declaration>
-                   </MClassMember>
-                  </item>
-                  <item>
-                   <MClassMember>
-                    <uid>{4703c906-fec3-4210-b3dd-566d529da66d}</uid>
-                    <type>2</type>
-                    <declaration>+setLayerOpacity()</declaration>
-                   </MClassMember>
-                  </item>
-                  <item>
-                   <MClassMember>
-                    <uid>{2ce76134-7008-4021-b35f-c795c1dcd618}</uid>
-                    <type>2</type>
-                    <declaration>+setPixelColor()</declaration>
-                   </MClassMember>
-                  </item>
-                  <item>
-                   <MClassMember>
-                    <uid>{9dcaefab-9da9-4a06-bc5e-290dddc680f6}</uid>
+                    <uid>{9606a7f0-d71c-4126-bb14-c88b741f34c0}</uid>
                     <type>2</type>
                     <declaration>+moveLayerUp()</declaration>
                    </MClassMember>
                   </item>
                   <item>
                    <MClassMember>
-                    <uid>{a5df75a8-7fe5-4afd-ba9e-7ef48c0ad3f7}</uid>
+                    <uid>{f6e932d7-8c2a-4e0c-95b1-049a74d6de61}</uid>
                     <type>2</type>
                     <declaration>+moveLayerDown()</declaration>
                    </MClassMember>
